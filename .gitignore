@@ -45,9 +45,6 @@ bower_components
 
 # IDE - VSCode
 .vscode/*
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
