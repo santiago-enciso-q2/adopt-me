@@ -1,0 +1,28 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "React website for adopting dogs",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "prettier": "^2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiago-enciso-q2/adopt-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiago-enciso-q2/adopt-me/issues"
+  },
+  "homepage": "https://github.com/santiago-enciso-q2/adopt-me#readme"
+}
